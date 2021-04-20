@@ -1,3 +1,24 @@
 body{
     background-color: darkkhaki;
 }
+h1 {
+    display:flex;
+    justify-content: center;
+    font-family: Impact;
+    font-size: 50px;
+}
+#poga{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#Prece {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 200px;
+    height: 50px;
+    font-size: 25px;
+    border-radius: 30%;
+}
+
